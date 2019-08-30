@@ -1,8 +1,8 @@
-# Classic-Number-Puzzly
+# Photo Puzzler
 
-Technical support for "Classic-Number-Puzzly"
+Technical support for "Photo Puzzler"
 
-We will provide technical support for this app（Classic Number Puzzly）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: emmanumberpuzzly@gmail.com
+We will provide technical support for this app（Photo Puzzler）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: BMPhotoPuzzler@gmail.com
 
 Privacy Policy
 
